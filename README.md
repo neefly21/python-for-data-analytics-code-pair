@@ -1,0 +1,1 @@
+# This repo is stricly for fun to step through the projects I'm working on in pair while reading the book 'Python for Data Analytics'. I am in no way associated to the book, just a nerd enjoying the topics.
